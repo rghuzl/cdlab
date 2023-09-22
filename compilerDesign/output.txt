@@ -1,0 +1,14 @@
+# include <stdio.h>
+#include "conio.H"
+
+#define max 5
+
+"hello"
+main(){
+    
+        int a = 100; int b = 1;
+        ;
+        a = 200;
+        ;
+        char var = 'a' ;
+}

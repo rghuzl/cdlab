@@ -2,6 +2,6 @@
 
 
 # specific files in compilerDesign directory
-/compilerDesign
+compilerDesign/
 # /compilerDesign/mistakes.txt
 !README.md

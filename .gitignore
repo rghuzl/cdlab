@@ -4,3 +4,4 @@
 # specific files in compilerDesign directory
 ./compilerDesign rough.l
 ./compilerDesign mistakes.txt
+*.md

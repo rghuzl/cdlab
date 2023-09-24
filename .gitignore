@@ -2,6 +2,6 @@
 
 
 # specific files in compilerDesign directory
-/compilerDesign/rough.l
-/compilerDesign/mistakes.txt
-! README.md
+/compilerDesign
+# /compilerDesign/mistakes.txt
+!README.md
